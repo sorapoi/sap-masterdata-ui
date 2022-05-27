@@ -1,6 +1,6 @@
 const setting = {
   //导航模式 vertical 左侧菜单模式 horizontal 顶部菜单模式
-  navMode: 'vertical',
+  navMode: 'horizontal',
   //导航风格 dark 暗色侧边栏 light 白色侧边栏 header-dark 暗色顶栏
   navTheme: 'dark',
   // 是否处于移动端模式
@@ -21,7 +21,7 @@ const setting = {
     //背景色
     bgColor: '#fff',
     //是否显示
-    show: true,
+    show: false,
     //固定多标签
     fixed: true,
   },

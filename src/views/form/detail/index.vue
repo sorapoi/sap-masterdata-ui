@@ -8,11 +8,11 @@
     <n-card
       :bordered="false"
       title="基本信息"
-      class="mt-4 proCard"
+      class="mt-5 proCard"
       size="small"
       :segmented="{ content: 'hard' }"
     >
-      <n-descriptions label-placement="left" class="py-2">
+      <n-descriptions label-placement="left" class="py-3">
         <n-descriptions-item>
           <template #label>收款人姓名</template>
           啊俊
